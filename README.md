@@ -30,5 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhayashii&layout=compact)](https://github.com/victorhayashii/github-readme-stats)
 
-
-  ![Snake animation](https://github.com/victorhayashii/victorhayashii/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/victorhayashii/VictorHayashi/blob/output/github-contribution-grid-snake.svg)
