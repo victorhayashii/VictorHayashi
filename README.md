@@ -1,9 +1,10 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <h1>Olá Me chamo Victor Hayashi</h1>
-<h2>Aqui você verá um pouco sobre minhas experiências profissionais</h2>
+<h2>Aqui você verá um pouco sobre minhas experiências tanto profissionais, tanto projetos pessoais</h2>
 </br>
 
  - 💻 Hoje Trabalho como Desenvolvedor Web Full-Stack. Atuo no desenvolvimento de novas telas, alterações e melhorias de funcionalidades existentes💻
+ - 📚 Formado em Técnico em Informatica, e graduado em Analise e Desenvolvimento de Sistemas📚
 
 
 
