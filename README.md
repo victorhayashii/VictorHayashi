@@ -3,9 +3,9 @@
 <h2>Aqui você verá um pouco sobre minhas experiências profissionais</h2>
 </br>
 
- - 💻 Hoje Trabalho como Dev Front-end 💻
+ - 💻 Hoje Trabalho como Desenvolvedor Web Full-Stack. Atuo no desenvolvimento de novas telas, alterações e melhorias de funcionalidades existentes💻
 
- - 📚 Atualmente estou estudando React 📚
+
 
 </br>
  
