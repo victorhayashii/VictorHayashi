@@ -3,7 +3,7 @@
 <h2>Aqui você verá um pouco sobre minhas experiências tanto profissionais, tanto projetos pessoais</h2>
 </br>
 
- - 💻 Atualmente Dev Full-Stack💻
+ - 💻 Atualmente Dev Full-Stack Pleno💻
  - 📚 Formado em Técnico em Informatica, e graduado em Analise e Desenvolvimento de Sistemas📚
 
 
