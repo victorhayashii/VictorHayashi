@@ -3,7 +3,7 @@
 <h2>Aqui você verá um pouco sobre minhas experiências tanto profissionais, tanto projetos pessoais</h2>
 </br>
 
- - 💻 Hoje Trabalho como Desenvolvedor Web Full-Stack. Atuo no desenvolvimento de novas telas, alterações e melhorias de funcionalidades existentes💻
+ - 💻 Atualmente Dev Full-Stack💻
  - 📚 Formado em Técnico em Informatica, e graduado em Analise e Desenvolvimento de Sistemas📚
 
 
